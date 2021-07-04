@@ -1,0 +1,15 @@
+state,date,no_of_vaccination,vaccine_name
+Karnataka,4/04/2021,100000,Covishield
+Tamil Nadu,4/04/2021,500000,Covishield
+Maharastra,4/04/2021,200034,Covishield
+Andhra Pradesh,4/04/2021,302341,Covaxin
+Gujurat,4/04/2021,400011,Covaxin
+West Bengal,4/04/2021,100123,Covaxin
+Jammu Kashmir,4/04/2021,78000,Covaxin
+Karnataka,5/04/2021,78000,Covaxin
+Tamil Nadu,5/04/2021,100000,Covaxin
+Maharastra,5/04/2021,302341,Covishield
+Andhra Pradesh,5/04/2021,134000,Covishield
+Gujurat,5/04/2021,434000,Covishield
+West Bengal,5/04/2021,200034,Covishield
+Jammu Kashmir,5/04/2021,50000,Covishield
